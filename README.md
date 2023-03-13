@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mr3mre
-- 💻 You can check [my website](https://mr3mre.github.io "Google's Homepage")
+- 💻 You can check [my website](https://mr3mre.github.io)
 <!---
 - 👀 I’m interested in cybersecurity and machine learning
 - 🌱 I’m currently learning cybersecurity 
